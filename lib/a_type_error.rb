@@ -1,3 +1,4 @@
 1 + 1
 
-1 + "is the loneliest number"
+loneliest_number = "1 is the loneliest number"
+puts loneliest_number
