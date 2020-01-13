@@ -1,3 +1,4 @@
 x = 1
-
-x = 
+puts x
+x = 11 + 7
+puts x
